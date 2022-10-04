@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+    padding: initial;
+    margin: 10px;
+    text-align: center;
+    border: 1px red;
+    margin-top : 128px;
+}
+form{
+    background-attachment: fixed;
+}
